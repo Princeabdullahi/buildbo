@@ -1,0 +1,5 @@
+{
+  "name": "libra-auth-studio",
+  "compatibility_date": "2026-08-15",
+  "main": "src/index.ts"
+}
